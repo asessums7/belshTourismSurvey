@@ -1,0 +1,15 @@
+# Ignore credentials folder
+config/
+
+# Ignore all .json files
+*.json
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by the OS
+*.tmp
+
